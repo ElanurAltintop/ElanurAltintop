@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElanurAltintop I am an information system engineering student and a author. My book is "Blockchain Teknolojisi Şirketleri"
-- 👀 I’m interested in aviation software, web programming, Java and .NET, Web3 - Blockchain Technologies
+- 👀 I’m interested in aviation software, web programming, Java and , Web3 - Blockchain Technologies
 - 🌱 I’m currently learning web programming
 - 📫 How to reach me e-mail: altintopelanur01@gmail.com, 
 - 📌 LinkedIn: linkedin.com/in/elanur-altıntop-10711453ea/
